@@ -3,61 +3,73 @@
 </p>
 
 
-
-
 <h3 align="center">Hi 👋 I'm Sameeha</h3>
 <p align="center">
-MERN Stack Developer • Self-Study • Problem Solving
+  MERN Stack Developer • Self-Study • Problem Solving
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Learning MERN stack by building and practicing
-- 🧠 Improving problem-solving skills daily
-- ⚡ Interested in clean code and real-world projects
+- 🌱 Learning MERN stack by building real projects
+- 🧠 Practicing DSA and problem-solving regularly
+- ⚡ Interested in clean code & scalable applications
 
 ---
+
+### 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+  <img src="https://img.shields.io/badge/AWS_S3-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Cloudinary-000?style=for-the-badge&logo=cloudinary&logoColor=0FAAFF"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sameeha1992/sameeha1992/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/sameeha-ansari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/sameehaansari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
-
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameeha-ansari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://leetcode.com/u/sameehaansari" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="https://github.com/sameeha1992" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeha1992&show_icons=true&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeha1992&show_icons=true&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeha1992&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeha1992&layout=compact&hide_border=true" />
 </p>
