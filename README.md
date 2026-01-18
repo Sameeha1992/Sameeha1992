@@ -42,11 +42,32 @@
 </p>
 
 ---
+### 🚀 Featured Projects
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sameeha1992/sameeha1992/output/github-contribution-grid-snake.svg" />
-</p>
+#### 💰 FinEra – Financial Loan Application Platform
+*A financial platform similar to PolicyBazaar for comparing and applying for loans.*
+
+- Loan comparison & application workflow
+- User authentication & profile management
+- Secure backend APIs
+- Scalable MERN architecture
+
+🛠️ Tech Stack: Typescript, MongoDB, Express, React, Node.js  
+🔗 Repository: https://github.com/sameeha1992/finera
+
+---
+
+#### ⌚ WristStyle – E-commerce Platform
+*An end-to-end e-commerce application for watches.*
+
+- Product listing & filtering
+- Cart & checkout flow
+- User authentication
+- Admin product management
+
+🛠️ Tech Stack: MongoDB, Express, React, Node.js  
+🔗 Repository: https://github.com/sameeha1992/wriststyle
+
 
 ---
 
