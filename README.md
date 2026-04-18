@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Cloudinary-000?style=for-the-badge&logo=cloudinary&logoColor=0FAAFF"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 </p>
 
 <p align="center">
